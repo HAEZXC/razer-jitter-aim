@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Macro>
+   <Name>weeeeeeeeee</Name>
+   <MacroEvents>
+      <MacroEvent>
+         <Type>actionBar</Type>
+         <recordProfile>
+            <mmtSetting>3</mmtSetting>
+         </recordProfile>
+         <selected>false</selected>
+      </MacroEvent>
+
+      
+      <MacroEvent>
+         <Type>2</Type>
+         <MouseEvent>
+            <MouseButton>0</MouseButton>
+            <State>down</State>
+         </MouseEvent>
+      </MacroEvent>
+
+      
+      <MacroEvent>
+         <Type>3</Type>
+         <MouseEvent>
+            <Buffer>
+               <x>2968</x>
+               <y>765</y>
+               <time>12</time>
+            </Buffer>
+            <Buffer>
+               <x>2986</x>
+               <y>767</y>
+               <time>12</time>
+            </Buffer>
+            <Buffer>
+               <x>2986</x>
+               <y>769</y>
+               <time>12</time>
+            </Buffer>
+            <Buffer>
+               <x>2968</x>
+               <y>768</y>
+               <time>12</time>
+            </Buffer>
+         </MouseEvent>
+         <Number>0.048</Number>
+      </MacroEvent>
+
+      
+   </MacroEvents>
+
+   <DelaySetting />
+   <Guid>703f4091-a9b2-4bb3-965c-e5ad42699fcf</Guid>
+   <Version>4</Version>
+   <MouseMoveType>relative</MouseMoveType>
+</Macro>
